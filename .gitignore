@@ -1,0 +1,14 @@
+# MPLAB X generated build artifacts
+build/
+dist/
+.generated_files/
+
+# MPLAB X private metadata
+nbproject/private/
+
+# VS Code local settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
